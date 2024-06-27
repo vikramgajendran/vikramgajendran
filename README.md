@@ -1,4 +1,4 @@
-## Hi there👋 It's me Vikram Gajendran
+## Hi there👋 It's me **Vikram Gajendran**
 
 <!--
 **vikramgajendran/vikramgajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
